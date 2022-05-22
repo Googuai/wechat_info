@@ -3,7 +3,7 @@
 ### 用法
 直接执行即可
 
-![image-20220523001556663](https://github.com/Googuai/wechat_info/image-20220523001556663.png)
+![image-20220523001556663](https://github.com/Googuai/wechat_info/blob/master/image-20220523001556663.png?raw=true)
 
 ### 适用系统
 暂时只支持windows
